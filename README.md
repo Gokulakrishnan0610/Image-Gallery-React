@@ -18,7 +18,7 @@ The Image Gallery React is a web application designed for users to view, upload,
   
 ## How to View
 
-You can access Image Gallery website by visiting [image-gallery-react-two.vercel.app] Feel free to explore the content.
+You can access Image Gallery website by visiting [https://image-gallery-react-two.vercel.app] Feel free to explore the content.
 
 ## Contributing
 
